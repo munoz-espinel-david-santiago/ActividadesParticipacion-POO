@@ -117,3 +117,6 @@ if texto_limpio == texto_limpio[::-1]:
 else:
     print("La cadena no es un palíndromo.")
 
+
+
+ 

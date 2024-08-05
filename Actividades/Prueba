@@ -1,8 +1,7 @@
-
+#PUNTO15
 texto = input("Ingresa una cadena de texto: ")
 texto_limpio = texto.replace(" ", "").lower()
 if texto_limpio == texto_limpio[::-1]:
     print("La cadena es un palíndromo.")
 else:
     print("La cadena no es un palíndromo.")
-
