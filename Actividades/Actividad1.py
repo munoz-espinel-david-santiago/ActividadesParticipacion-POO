@@ -1,4 +1,4 @@
-#PUNTO!
+#PUNTO1
 nombre = input("Por favor, ingresa tu nombre: ")
 edad = int(input("Por favor, ingresa tu edad: "))
 
@@ -116,7 +116,3 @@ if texto_limpio == texto_limpio[::-1]:
     print("La cadena es un palíndromo.")
 else:
     print("La cadena no es un palíndromo.")
-
-
-
- 
